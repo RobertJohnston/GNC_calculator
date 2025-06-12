@@ -10,7 +10,7 @@ Identifying the peak month of acute malnutrition and the seasonal variation ampl
 (http://www.fao.org/3/ca6984en/CA6984EN.pdf)
 https://journals.sagepub.com/doi/pdf/10.1177/03795721231181715
 https://gh.bmj.com/content/10/3/e017643
-Add for the Sahel
+(https://journals.sagepub.com/doi/reader/10.1177/03795721231178344)
 https://www.sciencedirect.com/science/article/pii/S0002916523661684#appsec1
 
 The GNC_Calculator_DEV_Temperature uses average peak temperatures by month as proxies for peak malnutrition months, aligning with these findings. Users should carefully review the calculator’s inputs and outputs and compare its estimates to actual SAM admissions data.
