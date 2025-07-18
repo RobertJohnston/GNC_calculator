@@ -1,7 +1,7 @@
 # GNC_calculator
 GNC Caseload Calculator
 
-There are two versions of the GNC Calculator archived in the GitHub. 
+There are two versions of the GNC Calculator archived in GitHub. 
 1. GNC_Calculator_DEV_Unimodal (assumes there is only one peak of acute malnutrition during the year)
 2. GNC_Calculator_DEV_Temperature (allows for two peaks or more of acute malnutrition during one year)
 
