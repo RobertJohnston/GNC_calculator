@@ -7,9 +7,9 @@ The instructions for data entry into the calculator are included in the spreadsh
 
 For more information, please see
 
-[Seasonally Adjusted Wasting Estimates_ENGLISH.pptx](https://github.com/RobertJohnston/GNC_calculator/blob/main/ Seasonally%20Adjusted%20Wasting%20Estimates_EN.pptx)
+[Seasonally Adjusted Wasting Estimates ENGLISH.pptx]( https://github.com/RobertJohnston/GNC_calculator/blob/main/Seasonally%20Adjusted%20Wasting%20Estimates_EN.pptx)
 
-[Seasonally Adjusted Wasting Estimates_FRANCAIS.pptx]( https://github.com/RobertJohnston/GNC_calculator/blob/main/Seasonally%20Adjusted%20Wasting%20Estimates_FR.pptx)
+[Seasonally Adjusted Wasting Estimates FRANCAIS.pptx]( https://github.com/RobertJohnston/GNC_calculator/blob/main/Seasonally%20Adjusted%20Wasting%20Estimates_FR.pptx)
 
 Identifying the peak month of acute malnutrition and the seasonal variation amplitude can be challenging. However, existing studies show a clear link between acute malnutrition prevalence and temperature in the African Drylands , including East Africa, Burkina Faso,  Chad, Niger, and the Sahel. In these studies, the lowest weight-for-height z-scores are associated with the highest average peak temperature. Higher temperatures are also linked to child mortality, increased incidence of child illnesses, water issues, food security, and poorer childcare practices.
 
