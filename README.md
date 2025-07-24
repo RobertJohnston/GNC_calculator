@@ -4,7 +4,7 @@ There are two draft versions of the GNC Calculator archived in GitHub.
 2.	[GNC_Calculator_DEV_Unimodal] (https://github.com/RobertJohnston/GNC_calculator/blob/main/GNC-Caseload_Calculator_DEV_Unimodal.xlsx) (assumes there is one or no peak of acute malnutrition during the year)
 
 The instructions for data entry into the calculator are included in the spreadsheet. 
-For more information, please see: 
+For more information, please see 
 [Seasonally Adjusted Wasting Estimates_ENGLISH.pptx](https://github.com/RobertJohnston/GNC_calculator/blob/main/Seasonally Adjusted Wasting Estimates_EN.pptx)
 [Seasonally Adjusted Wasting Estimates_FRANCAIS.pptx](https://github.com/RobertJohnston/GNC_calculator/blob/1c121598d1b9cafbb5134d2a54382882aaf16169/Seasonally Adjusted Wasting Estimates_FR.pptx)
 
