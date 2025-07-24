@@ -5,7 +5,7 @@ There are two draft versions of the GNC Calculator archived in GitHub.
 
 The instructions for data entry into the calculator are included in the spreadsheet. 
 
-For more information, please see
+For more information, please see the attached powerpoint presentations.
 
 [Seasonally Adjusted Wasting Estimates ENGLISH.pptx]( https://github.com/RobertJohnston/GNC_calculator/blob/main/Seasonally%20Adjusted%20Wasting%20Estimates_EN.pptx)
 
