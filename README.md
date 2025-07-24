@@ -7,7 +7,7 @@ The instructions for data entry into the calculator are included in the spreadsh
 
 For more information, please see
 
-[Seasonally Adjusted Wasting Estimates_ENGLISH.pptx](https://github.com/RobertJohnston/GNC_calculator/blob/main/ Seasonally%20Adjusted%20Wasting%20Estimates_EN.pptx))
+[Seasonally Adjusted Wasting Estimates_ENGLISH.pptx](https://github.com/RobertJohnston/GNC_calculator/blob/main/ Seasonally%20Adjusted%20Wasting%20Estimates_EN.pptx)
 
 [Seasonally Adjusted Wasting Estimates_FRANCAIS.pptx]( https://github.com/RobertJohnston/GNC_calculator/blob/main/Seasonally%20Adjusted%20Wasting%20Estimates_FR.pptx)
 
