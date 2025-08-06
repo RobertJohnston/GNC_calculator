@@ -1,7 +1,7 @@
 GNC Caseload Calculator
 There are two draft versions of the GNC Calculator archived in GitHub.
 1.	[GNC_Calculator_Temperature]( https://github.com/RobertJohnston/GNC_calculator/blob/main/GNC-Caseload_Calculator_DEV_Temperature.xlsx) (allows the peaks of acute malnutrition to follow patterns defined by peak temperature during the year)
-2.	[GNC_Calculator_Single_Peak](https://github.com/RobertJohnston/GNC_calculator/blob/main/GNC-Caseload_Calculator_DEV_Unimodal.xlsx) (assumes there is one or no peak of acute malnutrition during the year)
+2.	[GNC_Calculator_Single_Peak](https://github.com/RobertJohnston/GNC_calculator/blob/main/GNC-Caseload_Calculator_DEV_Unimodal.xlsx) (allows one or no peak of acute malnutrition during the year)
 
 The instructions for data entry into the calculator are included in the spreadsheet. 
 
